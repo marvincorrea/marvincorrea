@@ -1,5 +1,4 @@
-# Oi!!!
-Olá! Eu sou o Marvin 👋
+# Olá! Eu sou o Marvin 👋
 
 Estudante de Ciência da Computação e desenvolvedor em formação, apaixonado por tecnologia, desenvolvimento web e criação de soluções que unam funcionalidade, usabilidade e uma boa experiência para o usuário.
 
