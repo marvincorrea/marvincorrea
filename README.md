@@ -5,14 +5,14 @@ Estudante de Ciência da Computação e desenvolvedor em formação, apaixonado 
 Minha trajetória com tecnologia começou pelo UX/UI Design, área que me ajudou a desenvolver uma visão voltada para usabilidade, acessibilidade e experiência do usuário. Hoje, estou expandindo essa base para o desenvolvimento de software, transformando ideias e interfaces em aplicações funcionais.
 
 ## Atualmente estudando
-Desenvolvimento Web
-Python
-C
-HTML, CSS e JavaScript
-Análise de Dados
-Banco de Dados
-Git e GitHub
-Inteligência Artificial e RAG
+* Desenvolvimento Web
+* Python
+* C
+* HTML, CSS e JavaScript
+* Análise de Dados
+* Banco de Dados
+* Git e GitHub
+* Inteligência Artificial e RAG
 
 Venho desenvolvendo projetos para praticar lógica de programação, desenvolvimento web, integração com APIs, bancos de dados e aplicações utilizando Python e outras tecnologias do ecossistema web.
 
@@ -39,10 +39,10 @@ Venho desenvolvendo projetos para praticar lógica de programação, desenvolvim
 
 ## Em aprendizado
 
-TypeScript
-React
-Flask
-APIs REST
+* TypeScript
+* React
+* Flask
+* APIs REST
 
 ## Sobre meus projetos
 
